@@ -22,3 +22,27 @@
             background-color:darkolivegreen;
             margin: auto auto;
         }
+        .row{
+            min-height: 5px;
+        }
+        .col100{
+            width:100%;
+        }
+
+        .col75{
+            width:75%;
+            float:left;
+        }
+
+        .col50{
+            width:50%;
+            float:left;
+        }
+        .col25{
+            width:25%;
+            float:left;
+        }
+
+        .clear{
+            clear:both;
+        }
